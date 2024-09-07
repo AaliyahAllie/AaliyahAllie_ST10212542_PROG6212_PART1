@@ -5,7 +5,7 @@
     <Grid>
         <TextBlock Text="Claims to Verify/Approve:" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0"/>
         <ListView x:Name="ClaimsListView" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="20,50,20,200"/>
-        <Button Content="Verify Claim" Width="150" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,20"/>
+        <Button Content="RejectClaim" Width="150" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,20"/>
         <Button Content="Approve Claim" Width="150" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="200,0,0,20"/>
     </Grid>
 </Window>
